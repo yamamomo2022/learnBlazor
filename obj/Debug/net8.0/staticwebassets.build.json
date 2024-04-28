@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QtXJ+LPTyJnQPgdYgqeRDPheNiNyGCruF1rMVElxgXk=",
+  "Hash": "MOAj+KsH78dJkv4y9d8JD18iHaoZ4SuEXH2TPmNLQjQ=",
   "Source": "learnBlazor",
   "BasePath": "_content/learnBlazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "learnBlazor\\wwwroot",
       "Source": "learnBlazor",
-      "ContentRoot": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\",
       "BasePath": "_content/learnBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\learnBlazor.styles.css",
+      "Identity": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\learnBlazor.styles.css",
       "SourceId": "learnBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/learnBlazor",
       "RelativePath": "learnBlazor.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\learnBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\learnBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\learnBlazor.bundle.scp.css",
+      "Identity": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\learnBlazor.bundle.scp.css",
       "SourceId": "learnBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/learnBlazor",
       "RelativePath": "learnBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\learnBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\learnBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\app.css",
       "SourceId": "learnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\",
       "BasePath": "_content/learnBlazor",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "learnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\",
       "BasePath": "_content/learnBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "learnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\",
       "BasePath": "_content/learnBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\favicon.png",
       "SourceId": "learnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\viole\\Mycode\\dotnet\\learnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\wwwroot\\",
       "BasePath": "_content/learnBlazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

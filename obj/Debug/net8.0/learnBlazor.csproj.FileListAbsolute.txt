@@ -27,3 +27,4 @@ c:\Users\viole\Mycode\dotnet\learnBlazor\obj\Debug\net8.0\refint\learnBlazor.dll
 c:\Users\viole\Mycode\dotnet\learnBlazor\obj\Debug\net8.0\learnBlazor.pdb
 c:\Users\viole\Mycode\dotnet\learnBlazor\obj\Debug\net8.0\learnBlazor.genruntimeconfig.cache
 c:\Users\viole\Mycode\dotnet\learnBlazor\obj\Debug\net8.0\ref\learnBlazor.dll
+C:\Users\viole\mycode\dotnet\learnBlazor\obj\Debug\net8.0\learnBlazor.sourcelink.json
