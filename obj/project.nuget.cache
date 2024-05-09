@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ls2A0rIFGYqZn5zC6x+ucOBBuXa7KIzknxgAAxK/eZQeXs8p/tB/fzwXORUNhejeZBdiC92yL9Ee8lYXy/19w==",
+  "dgSpecHash": "rOLLwZ5J0BJ7MfhlNXJBj/X6FNkUtCSTc7kLj7bQ6mimo/pMgJ+Bzn+bqY44XboUkLcLQg10Qt00+U4RlfIAyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\learnBlazor.csproj",
+  "projectFilePath": "/home/viole/lab/dotnet/learnBlazor/learnBlazor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

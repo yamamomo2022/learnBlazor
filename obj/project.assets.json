@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\viole\\.nuget\\packages\\": {}
+    "/home/viole/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\learnBlazor.csproj",
+      "projectUniqueName": "/home/viole/lab/dotnet/learnBlazor/learnBlazor.csproj",
       "projectName": "learnBlazor",
-      "projectPath": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\learnBlazor.csproj",
-      "packagesPath": "C:\\Users\\viole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viole\\mycode\\dotnet\\learnBlazor\\obj\\",
+      "projectPath": "/home/viole/lab/dotnet/learnBlazor/learnBlazor.csproj",
+      "packagesPath": "/home/viole/.nuget/packages/",
+      "outputPath": "/home/viole/lab/dotnet/learnBlazor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\viole\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/viole/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

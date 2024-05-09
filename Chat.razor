@@ -1,0 +1,42 @@
+@page "/"
+@using Azure;
+@using Azure.AI.OpenAI;
+
+<PageTitle>Index</PageTitle>
+<h1>Azure OpenAI Sample</h1>
+<p class="h5">Completion: @completionStr</p>
+<div class="form-row">
+    <input type="text" @bind="inputValue" class="form-control col-8" />
+    <button @onclick="GetCompletion" class="btn btn-primary col">Click</button>
+</div>
+@code {
+    private string inputValue = "";
+    private string completionStr = "";
+    const string OPENAI_API_KEY = ""; 
+    const string BASE_URL = ""; 
+    const string MODEL_NAME = ""; 
+
+    private void GetCompletion()
+    {
+        var client = new OpenAIClient(
+            new Uri(BASE_URL),
+            new AzureKeyCredential(OPENAI_API_KEY));
+        var response = client.GetChatCompletions(
+            MODEL_NAME,
+            new ChatCompletionsOptions()
+            {
+                Messages =
+                {
+                    new ChatMessage(ChatRole.User, inputValue),
+                },
+                Temperature = (float)0.7,
+                MaxTokens = 800,
+                NucleusSamplingFactor = (float)0.95,
+                FrequencyPenalty = 0,
+                PresencePenalty = 0,
+            }
+        );
+        var completions = response.Value;
+        completionStr = completions.Choices[0].Message.Content;
+    }
+}
